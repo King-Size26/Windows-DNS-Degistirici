@@ -4,6 +4,16 @@ Tek tıkla DNS değiştiren, tüm aktif adaptörleri yöneten ve cache temizleye
 
 ---
 
+## 🎥 Tanıtım Videosu
+
+<video src="Dns Değiştirici İnceleme.mp4" controls width="100%" poster="icon256.png">
+  Tarayıcınız video etiketini desteklemiyor. Videoyu <a href="Dns Değiştirici İnceleme.mp4">buradan indirip izleyebilirsiniz</a>.
+</video>
+
+> **Not:** GitHub üzerinde video doğrudan oynatılmıyorsa [Dns Değiştirici İnceleme.mp4](./Dns%20De%C4%9Fi%C5%9Ftirici%20%C4%B0nceleme.mp4) dosyasına tıklayarak izleyebilirsiniz.
+
+---
+
 ## 🗺️ Proje Haritası
 
 ```mermaid
