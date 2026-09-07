@@ -1,0 +1,6 @@
+file 'C:\Users\alim\Desktop\DNSDegistiriciApp\video\seg_1.wav'
+file 'C:\Users\alim\Desktop\DNSDegistiriciApp\video\seg_2.wav'
+file 'C:\Users\alim\Desktop\DNSDegistiriciApp\video\seg_3.wav'
+file 'C:\Users\alim\Desktop\DNSDegistiriciApp\video\seg_4.wav'
+file 'C:\Users\alim\Desktop\DNSDegistiriciApp\video\seg_5.wav'
+file 'C:\Users\alim\Desktop\DNSDegistiriciApp\video\seg_6.wav'
