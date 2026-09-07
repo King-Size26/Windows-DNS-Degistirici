@@ -6,11 +6,27 @@ Tek tıkla DNS değiştiren, tüm aktif adaptörleri yöneten ve cache temizleye
 
 ## 🎥 Tanıtım Videosu
 
-<video src="Dns Değiştirici İnceleme.mp4" controls width="100%" poster="icon256.png">
-  Tarayıcınız video etiketini desteklemiyor. Videoyu <a href="Dns Değiştirici İnceleme.mp4">buradan indirip izleyebilirsiniz</a>.
-</video>
+<div align="center">
 
-> **Not:** GitHub üzerinde video doğrudan oynatılmıyorsa [Dns Değiştirici İnceleme.mp4](./Dns%20De%C4%9Fi%C5%9Ftirici%20%C4%B0nceleme.mp4) dosyasına tıklayarak izleyebilirsiniz.
+  <video width="800" controls preload="metadata" poster="icon256.png" playsinline style="max-width:100%; border-radius:12px; box-shadow:0 8px 24px rgba(0,0,0,0.4); background:#000; outline:none;">
+    <source src="Dns Değiştirici İnceleme.mp4" type="video/mp4">
+    <source src="./Dns%20De%C4%9Fi%C5%9Ftirici%20%C4%B0nceleme.mp4" type="video/mp4">
+    Tarayıcınız video etiketini desteklemiyor. Videoyu <a href="Dns Değiştirici İnceleme.mp4">buradan indirip izleyebilirsiniz</a>.
+  </video>
+
+  <br/>
+  <sub>▶️ Oynatmak için play tuşuna basın — GitHub'da doğrudan oynatılmazsa <a href="Dns Değiştirici İnceleme.mp4">videoyu açmak için tıklayın</a></sub>
+
+  <!-- GitHub README <video> etiketini sanitize ettiği için fallback: önizleme görseli tıklayınca videoya gider -->
+  <p>
+    <a href="Dns Değiştirici İnceleme.mp4">
+      <img src="icon256.png" width="160" alt="Videoyu İzle" style="border-radius:8px; margin-top:8px;"/>
+      <br/>
+      <strong>📥 Videoyu İzle / İndir (MP4)</strong>
+    </a>
+  </p>
+
+</div>
 
 ---
 
